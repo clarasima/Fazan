@@ -30,7 +30,7 @@ Comunicarea a fost facuta printr-un **TCP**(Transport Control Protocol) prin Soc
 
 Cuvintele limbii romane au fost retinute intr-un **trie** realizat dupa site-ul https://www.geeksforgeeks.org/trie-insert-and-search/. Acest mod de a retine cuvintele este eficient si din punctul de vedere al stocarii deoarece ocupa mult mai putina memorie, dar si al timpului pentru cautare al cuvintelor.
 
-Despre joc:
+**Despre joc:**
 
 - serverul asteapta clientii
 - clientii intra si se inregistreaza cu un nume: "register nume"
