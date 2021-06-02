@@ -42,7 +42,7 @@ public class Client {
                         answer = in.readLine(); //server → client //whose turn it is or gameStatement
                         System.out.println(answer);
                         if(answer.equals("Ai pierdut.") ||answer.equals("Ai castigat!")){
-                            System.out.println("break");
+                            //System.out.println("break");
                             break;
                         }
                         if(answer.contains("E randul tau!")){
